@@ -593,7 +593,7 @@ footer::after {
 
 @media (max-width: 1199px) {
     h1 {
-        font-size: 50px;
+        font-size: 60px;
         line-height: 55px;
     }
     h2 {
@@ -605,7 +605,7 @@ footer::after {
     .carousel-caption {
         left: 3%;
         right: 3%;
-        top:40px;
+        top:30%;
     }
 
     .about_banner > img {
@@ -707,7 +707,10 @@ footer::after {
         margin-left: 15px;
     }
     .carousel-caption {
-        top: 20px;
+        top: 30%;
+    }
+    .carousel-caption > h1 {
+        font-size: 50px;
     }
     .carousel-inner > .item > a > img, .carousel-inner > .item > img {
         height: 450px;
@@ -780,10 +783,13 @@ footer::after {
         padding: 0 8px;
     }
     .carousel-inner > .item > a > img, .carousel-inner > .item > img {
-        height: 420px;
+        height: 340px;
     }
     .carousel-caption {
-        top: 5px;
+        top: 30%;
+    }
+    .carousel-caption > h1 {
+        font-size: 40px;
     }
     .carousel-caption h1.second_heading {
         margin-bottom: 10px;
