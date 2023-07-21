@@ -832,3 +832,75 @@ footer::after {
         padding: 8px 3px;
     }
 }
+
+@media (max-width: 392px) {
+    h1 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+    h3 {
+        font-size: 17px;
+    }
+    .list-inline.info {
+        margin-bottom: 10px;
+        text-align: center;
+        width: 100%;
+    }
+    .list-inline.info > li {
+        padding: 0 8px;
+    }
+    .list-inline.social_icon {
+        text-align: center;
+        width: 100%;
+        padding: 0 8px;
+    }
+    .carousel-inner > .item > a > img, .carousel-inner > .item > img {
+        height: 340px;
+    }
+    .carousel-caption {
+        top: 30%;
+    }
+    .carousel-caption > h1 {
+        font-size: 30px;
+    }
+    .carousel-caption h1.second_heading {
+        margin-bottom: 10px;
+    }
+    .carousel-caption > h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+    .carousel-caption > p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .btn.know_btn {
+        font-size: 14px;
+        padding: 8px 14px;
+    }
+    .carousel-caption .btn.know_btn {
+        margin-top: 10px;
+    }
+    .carousel-caption .btn.know_btn:last-child {
+        margin-left: 10px;
+    }
+    .about_content > h3 {
+        font-size: 24px;
+    }
+    .about_banner > img {
+        width: 100%;
+    }
+    #filters > button {
+        font-size: 14px;
+    }
+    .grid-item {
+        width:100%;
+    }
+    .grid-item--height2 { height: 255px !important;}
+    .grid-item--width2 .portfolio_hover_area .fa {
+        margin-top: 90px;
+    }
+    .list-inline.footer_social_icon > li {
+        padding: 8px 3px;
+    }
+}
