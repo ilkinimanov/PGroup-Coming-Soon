@@ -710,7 +710,7 @@ footer::after {
         top: 30%;
     }
     .carousel-caption > h1 {
-        font-size: 50px;
+        font-size: 45px;
     }
     .carousel-inner > .item > a > img, .carousel-inner > .item > img {
         height: 450px;
@@ -861,7 +861,7 @@ footer::after {
         top: 30%;
     }
     .carousel-caption > h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
     .carousel-caption h1.second_heading {
         margin-bottom: 10px;
